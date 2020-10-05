@@ -1,7 +1,13 @@
 body {
-  background-color: goldenrod;
+  background-color: limegreen;
 }
 
 h1 {
-  background-color: purple;
+  background-color: orange;
+  color: bisque;
+}
+
+p {
+  background-color: coral;
+  color: darkcyan;
 }
